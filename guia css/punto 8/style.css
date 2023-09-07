@@ -1,0 +1,17 @@
+.container{
+    margin: 20px;
+    padding: 5px;
+}
+
+.hd{
+    color: blue;
+    font-weight: bold;
+}
+
+.ft{
+    color: grey;
+}
+
+main{
+    background-color: #cc2345;
+}

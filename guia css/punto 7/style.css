@@ -1,0 +1,15 @@
+input{
+    background-color: grey;
+    border: 1px solid;
+    border-radius: 100px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+button{
+    background-color: green;
+    color: white;
+}
+h1{
+    font-weight: bold;
+    text-decoration: underline;
+}
